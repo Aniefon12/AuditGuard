@@ -1,0 +1,5 @@
+{
+  "name": "AuditGuard: Solidity Logic Verifier",
+  "description": "A high-end smart contract auditing tool that validates Solidity code against natural language claims using Gemini's advanced reasoning.",
+  "requestFramePermissions": []
+}
